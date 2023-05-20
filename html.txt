@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Netflix Clone</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">TV Shows</a></li>
+        <li><a href="#">Movies</a></li>
+        <li><a href="#">New & Popular</a></li>
+        <li><a href="#">My List</a></li>
+      </ul>
+    </nav>
+    <header>
+      <h1>Unlimited movies, TV shows, and more.</h1>
+      <h2>Watch anywhere. Cancel anytime.</h2>
+      <button>Join Free for a Month</button>
+    </header>
+    <section>
+      <h3>Popular on Netflix</h3>
+      <div class="movie">
+        <img src="https://picsum.photos/200/300" alt="Movie Poster">
+        <h4>Movie Title</h4>
+      </div>
+      <div class="movie">
+        <img src="https://picsum.photos/200/300" alt="Movie Poster">
+        <h4>Movie Title</h4>
+      </div>
+      <div class="movie">
+        <img src="https://picsum.photos/200/300" alt="Movie Poster">
+        <h4>Movie Title</h4>
+      </div>
+      <div class="movie">
+        <img src="https://picsum.photos/200/300" alt="Movie Poster">
+        <h4>Movie Title</h4>
+      </div>
+    </section>
+    <footer>
+      <p>&copy; 2023 Netflix Clone</p>
+    </footer>
+  </body>
+</html>
